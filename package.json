@@ -1,13 +1,7 @@
 {
-  "name": "web",
+  "name": "roblox-data-migration",
   "version": "1.0.0",
-  "main": "getOldData.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
-  
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
 }
